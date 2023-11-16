@@ -23,7 +23,7 @@ VALUES ("HR rep", 300000, 4);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Andrew", "Patty", 1, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Doug", "Prescott", 2, 1);
+VALUES ("Doug", "Prescott", 2, 6);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Rob", "Tracy", 3, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
@@ -31,8 +31,8 @@ VALUES ("Calvin", "Hardy", 4, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Matt", "Micek", 5, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Lord", "Ring", 2, null);
+VALUES ("Lord", "Ring", 1, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Alicia", "Keys", 4, 7);
+VALUES ("Alicia", "Keys", 2, 8);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Tuck", "Man", 1, 2);
+VALUES ("Tuck", "Man", 1, 3);
